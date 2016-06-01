@@ -2,6 +2,9 @@
   "name": "asteroid-build",
   "version": "1.0.0",
   "description": "build of asteroid with babel-cli",
+  "author": "Benjamin RICHARD <richard.tribes@gmail.com>",
+  "keywords": ["meteorjs", "asteroid", "ddp"],
+  "licence": "MIT",
   "main": "index.js",
   "dependencies": {
     "asteroid": "^2.0.2"
